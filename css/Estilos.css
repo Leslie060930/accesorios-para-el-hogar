@@ -99,12 +99,15 @@ body{
 
 .dprincipal{
     margin: 30px;
+    align-items: center;
 }
 
 .elemento{
     height: 50px;
     margin: 50px;
     float: left;
+    text-align: center;
+    
 }
 
 .elemento h4{
@@ -277,6 +280,8 @@ footer{
      .contact-us{
          width: 90%;
      }
+
+
 
 }
 
